@@ -1,0 +1,6 @@
+print("1.Think number whatever")
+print("2.Now multiply it by 2")
+print("3.Then add 5 with on it.")
+print("4.Divide the number by 2")
+r=float(input("Now enter here the end value of your calculation :"))
+print((((r*2)-5)/2))
