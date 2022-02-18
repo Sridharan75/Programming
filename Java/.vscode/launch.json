@@ -1,0 +1,177 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialNumbers",
+            "request": "launch",
+            "mainClass": "FactorialNumbers",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenNumbers",
+            "request": "launch",
+            "mainClass": "EvenNumbers",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhoIsTheBlackSheep",
+            "request": "launch",
+            "mainClass": "WhoIsTheBlackSheep",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greetingx",
+            "request": "launch",
+            "mainClass": "Greetingx",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreetingTime",
+            "request": "launch",
+            "mainClass": "GreetingTime",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SquareNumber",
+            "request": "launch",
+            "mainClass": "SquareNumber",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java_33474812"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StarTriangle",
+            "request": "launch",
+            "mainClass": "StarTriangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greeting",
+            "request": "launch",
+            "mainClass": "Greeting"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxGrater",
+            "request": "launch",
+            "mainClass": "MaxGrater"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AreaOfCricle",
+            "request": "launch",
+            "mainClass": "AreaOfCricle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RangeOfVariables",
+            "request": "launch",
+            "mainClass": "RangeOfVariables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Grade",
+            "request": "launch",
+            "mainClass": "Grade"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreaterNumber",
+            "request": "launch",
+            "mainClass": "GreaterNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AritmeticOperators",
+            "request": "launch",
+            "mainClass": "AritmeticOperators"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - marketBilling",
+            "request": "launch",
+            "mainClass": "marketBilling"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - even",
+            "request": "launch",
+            "mainClass": "even"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stark",
+            "request": "launch",
+            "mainClass": "Stark"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WeekDays",
+            "request": "launch",
+            "mainClass": "WeekDays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Switch",
+            "request": "launch",
+            "mainClass": "Switch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Adding",
+            "request": "launch",
+            "mainClass": "Adding"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello_world",
+            "request": "launch",
+            "mainClass": "Hello_world"
+        }
+    ]
+}
